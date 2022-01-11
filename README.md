@@ -37,7 +37,7 @@
 
 # Running the game
 
-You can very conveniently compile all codes needed for this game and generate the final executable file for your game by this simple command: <br />
+You can very conveniently compile all codes needed for this game and generate the final executable file for your game on a Linux system by this simple command: <br />
 ```
 make game
 ./game
